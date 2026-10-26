@@ -1,10 +1,10 @@
-# SiteWatch: Website Monitoring & Change Detection System 🛡️
+# SiteWatch: Website Monitoring & Change Detection System 
 
 **SiteWatch** is a full-stack website monitoring platform built using **React.js, Node.js, Express.js, MongoDB, Axios, Cheerio, node-cron, Nodemailer, and Tailwind CSS**. It empowers users to monitor publicly accessible web pages, automatically scrape target content, compute granular line-by-line differences, schedule periodic checks, and dispatch real-time email alerts.
 
 ---
 
-## 🛠️ Technology Stack & Purpose
+## Technology Stack & Purpose
 
 | Component | Technology | Purpose |
 | :--- | :--- | :--- |
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 1. **Intelligent Content Scraping & Hashing**:
    - Uses Axios with custom User-Agent headers, timeout guards, and latency measurement.
